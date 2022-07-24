@@ -1,0 +1,22 @@
+.doc{
+    size:A4;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.doc h1{
+    text-align: center;
+}
+.line{
+    width: 100%;
+    height: 4px;
+    background-color: black;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.indent{
+    margin-left: 20px;
+}
+
+#show{
+    display: none;
+}
